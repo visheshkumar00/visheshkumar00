@@ -1,6 +1,21 @@
-### Hi there 👋
+👋 Hello! I'm Vishesh kumar
+👨‍💻 About Me
 
-<!--
+    👨‍🎓 I'm an 24 year old self-taught developer
+    🎓 Currently pursuing a diploma in Computer Science
+    📱 Native Android developer
+
+Skills
+
+    python
+
+    Java Programming
+
+    MySQL MySQL
+
+    c++ Programming
+
+🌐 Socials<!--
 **visheshkumar00/visheshkumar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
