@@ -2,8 +2,7 @@
 👨‍💻 About Me
 
     👨‍🎓 I'm an 24 year old self-taught developer
-    🎓 Currently pursuing a diploma in Computer Science
-    📱 Native Android developer
+    🎓 Currently pursuing a B-TECH in (Computer Science)
 
 Skills
 
@@ -20,7 +19,7 @@ Skills
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
