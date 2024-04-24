@@ -10,7 +10,7 @@ Skills
 
     Java Programming
 
-    MySQL MySQL
+    MySQL 
 
     c++ Programming
 
