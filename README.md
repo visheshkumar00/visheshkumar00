@@ -1,7 +1,7 @@
 👋 Hello! I'm Vishesh kumar
 👨‍💻 About Me
 
-    👨‍🎓 I'm an 25 year old self-taught developer
+    👨‍🎓 I'm an 26 year old self-taught developer
     🎓 Currently pursuing a B-TECH in (Computer Science)
 
 Skills
